@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 22.12.2022
+	Features:
+		- First release
+		- Settings can be changed using config.h
+		- Drivetrain is 6 motor 6:1 cartridge
+		- Catapult is 1 motor 36:1 cartridge
+		- Intake is 1 motor 6:1 cartridge
+		- Roller is the same motor as intake
+		- Manual control is currently set up as tank drive
+	Changes:
+		- n/a
